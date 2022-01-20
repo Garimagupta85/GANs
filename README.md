@@ -22,4 +22,5 @@ python gan/gans.py
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-* Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y., 2014. Generative adversarial nets. Advances in neural information processing systems, 27. [Reference](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+### Reference
+* Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y., 2014. Generative adversarial nets. Advances in neural information processing systems, 27. [Link](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
