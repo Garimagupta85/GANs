@@ -1,8 +1,16 @@
 # GAN
 Implementation of Generative Adverserial Networks for Handwritten digit generation. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+##### To run the code
+```sh
+   python gan/gans.py
+   ```
+   or
+   ```sh
+   python3 gan/gans.py
+   ```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 ### Required Libraries
 
 * [Keras](https://pypi.org/project/keras/)
