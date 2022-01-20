@@ -2,7 +2,8 @@
 Implementation of Generative Adverserial Networks for Handwritten digit generation. 
 
 ##### To run the code
-```sh python gan/gans.py
+```sh 
+python gan/gans.py
    ```
    or
    ```sh
