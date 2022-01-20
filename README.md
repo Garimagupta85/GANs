@@ -9,8 +9,8 @@ python gan/gans.py
    ```sh
    python3 gan/gans.py
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Required Libraries
 
 * [Keras](https://pypi.org/project/keras/)
